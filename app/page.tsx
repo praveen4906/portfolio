@@ -28,7 +28,7 @@ export default function Home() {
 
         {/* Role */}
         <p className="text-base sm:text-lg text-zinc-400 font-medium">
-          Python Backend Developer • Django REST API
+          Backend Developer • Python, Django, REST APIs
         </p>
 
         {/* Description */}
@@ -55,7 +55,7 @@ export default function Home() {
             <FontAwesomeIcon icon={faXTwitter} />
           </a>
           <a
-            href="https://www.linkedin.com/in/praveen4906/"
+            href="https://www.linkedin.com/in/praveen0004/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition-transform transform hover:scale-110"
